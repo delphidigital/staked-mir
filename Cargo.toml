@@ -1,0 +1,14 @@
+[package]
+name = "staked-mir"
+version = "0.1.0"
+authors = ["0x_larry <larry@delphidigital.io>"]
+edution = "2018"
+description = "Liquid staking derivative of Mirror Protocol"
+license = "UNLICENSED"
+repository = "https://github.com/delphidigital/staked-mir"
+
+[dependencies]
+cw1 = "0.5.0"
+cw2 = "0.5.0"
+cw20 = "0.5.0"
+mirror-protocol = "1.1.0"
